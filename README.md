@@ -1,4 +1,5 @@
-# Poster_UNAL
+# Búsqueda a través de imágenes
+
 Trabajo Final Materia Clasificación y Reconocimiento de Patrones - Grupo 2
 
 Con el objetivo de realizar búsqueda de prendas a partir de imágenes, se crean dos feature extractor. El primero usando deep neural networks y el según usando un histograma de colores.
